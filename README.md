@@ -4,7 +4,7 @@ I used AWS, GitHub and Google to look for templates that could help me with stru
 
 Following the workshop I created a user pool allowing users to sign in and out via Amazon Cognito, I
 believe multi-factor authentication is important as it not only protects the user but also the website.
-'''
+```
 }
   "AWSTemplateFormatVersion": "2010-09-09",
   "Description": "Custom Resource Types for managing SWF resources",
@@ -109,6 +109,6 @@ believe multi-factor authentication is important as it not only protects the use
  
 }
 
-'''
+```
 
-I did find it challenging trying to stick to just Amazon Cognito as while researching I realised howmuch Lambda and IAM can be heavily involved. As well as figuring out the placement of the syntax andand which policies were most important when dealing with user management and settled on the passwordpolicy. But I tried my best with what I understood and asked for help where I did not understand.  
+I did find it challenging trying to stick to just Amazon Cognito as while researching I realised howmuch Lambda and IAM can be heavily involved. As well as figuring out the placement of the syntax andand which policies were most important when dealing with user management and settled on the passwordpolicy. But I tried my best with what I understood and asked for help where I did not understand, itwas exciting and I gained quite a bit of knowledge throughout and I'm quite eager to learn more.  
